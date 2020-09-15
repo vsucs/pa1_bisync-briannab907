@@ -1,0 +1,4 @@
+#lang = "java"
+#lang = "python"
+run = "javac BISYNC.java && java BISYNC sample.txt output.txt"
+#run = "python BISYNC.py sample.txt output.txt"
